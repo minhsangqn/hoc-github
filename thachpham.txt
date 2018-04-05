@@ -1,3 +1,7 @@
 khoapham tranning
 90 le thi rieng
+<<<<<<< HEAD
 test
+=======
+add new action
+>>>>>>> e8aa8e4ebeedcd43468c0ce9ee61e774c6059428
